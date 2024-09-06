@@ -23,3 +23,8 @@ Texas A&M: Department of Atmospheric Science, Texas A&M University, College Stat
 ## Paper citation
 will be included upon acceptance for publication
 
+## License
+This project is licensed under an MIT license.
+
+Copyright (c) 2024 Marybeth Arcodia
+
