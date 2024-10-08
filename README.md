@@ -7,10 +7,15 @@ This is the code for the paper titled "Sea Surface Salinity Provides Subseasonal
 This code was written in python 3.9.7 and tensorflow 2.15.0. Below is my environment: 
 
 conda create -n tf2 python=3.9.7
+
 conda activate tf2
+
 conda install -c conda-forge jupyterlab cartopy
+
 conda install xarray scikit-learn seaborn palettable python-graphviz
+
 pip install tensorflow==2.15.0 (original code used tensorflow 2.5, but updates caused conflicts and tensorflow 2.15.0 was compatible without changing code output)
+
 pip install netcdf4 keras_tuner pydot pydotplus ipynb-py-convert import-ipynb latex
 
 ## Credits
