@@ -25,8 +25,9 @@ CSU: Department of Atmospheric Science, Colorado State University, Fort Collins,
 LLNL: Program for Climate Model Diagnosis and Intercomparison (PCMDI), Lawrence Livermore National Laboratory, Livermore, CA, USA.
 Texas A&M: Department of Atmospheric Science, Texas A&M University, College Station, TX, USA
 
-## Paper citation
-will be included upon acceptance for publication
+## Citations
+Zenodo code: https://doi.org/10.5281/zenodo.14967769 
+JGR manuscript: coming soon 
 
 ## License
 This project is licensed under an MIT license.
