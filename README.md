@@ -28,7 +28,7 @@ Texas A&M: Department of Atmospheric Science, Texas A&M University, College Stat
 ## Citations
 Zenodo code: https://doi.org/10.5281/zenodo.14967769 
 
-JGR manuscript: coming soon 
+Manuscript: Arcodia, Marybeth C., Elizabeth A. Barnes, Paul J. Durack, Patrick W. Keys, and Juliette Rocha. "Sea surface salinity provides subseasonal predictability for forecasts of opportunity of US summertime precipitation." Journal of Geophysical Research: Atmospheres 130, no. 6 (2025): e2024JD042402.  
 
 ## License
 This project is licensed under an MIT license.
